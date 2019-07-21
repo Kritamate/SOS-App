@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/32df4e5db8184ec14e29e26fd312a03bc94a19c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_6128c09e27ebabc56764328ae338939dd80c7b46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/12d7b162bb08b74764e68a0a87005c99bccdf5be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_ac94fb20d696864c36a5246f17ac4e2c12eb5e3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/1fac36396d079234086280ea19c6527f62087a67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_5cc2937c046b6df9fcd55236a0bfb172a66b5c81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/Desktop/HealthWatcher-master/lib/commons-math3-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/commons-math3-3.6.1_59ac232c2603591e0aa137420ef38aa3d58d9411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/6c077ec0d846917eadbb78ae93a85a5699420363/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_fb48725e98577dee7d7fbb508955b1d0c71903c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/Desktop/HealthWatcher-master/app/libs/androidplot-core-0.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f748797c749973ce1364ea8cc640744b64f78709">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/androidplot-core-0.6.0_09b8933afe354b3e7025a1e9f95ac4401dd8d38a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/6f521faa7cc308d1ad19c4ee4e977924fc69aa1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_5079b9323a737a4015c85e62c4e8d4bc98acbed4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/25c213c21885e967c18939cb21c234e0791051c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_de8737c54167ddf8fe059719ff6e5ed9bda42ef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/18f7e70848b234620598b59f02a72b62e12a2a35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_a14d8d05a420da9c704c315cf4ab8cdf96f91c9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/fb918fc4855eac387748043ca9e8c296761b1345/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_e683618ed6366ddbb8b62245547b5af4a63dfa6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.gradle/caches/modules-2/files-2.1/com.google.gms/google-services/3.0.0/ee538ce9cf4148485e43017c5542202b8c78ff8e/google-services-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee538ce9cf4148485e43017c5542202b8c78ff8e">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/google-services-3.0.0_ae56d5a10084705faf06f7a84cea8c236f6345a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/7afa1c987fffa4678073d26c984231388073ba63/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_eedaf751603721ff9acd9056b5930b3cb9f67d3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/7e250409c6ac23ab2c6abe574a508e1e99d7de65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_5d0d000b0ef582111c59a0f9c15e3829f5d55c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/c1c1f2bed6f831f8383bfe969fb94017af42a6a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_244142dfbf4f573edd91d90eafb02f0b7eb89da8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kritamate/.android/build-cache/856b1d4c155bac5c613aa585dbd2e3f95e466846/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/kritamate/Desktop/HealthWatcher-master/app/build/intermediates/pre-dexed/debug/classes_27b89fc08f51da46fb387b1fd4bda6efecf5d445.jar" />
+    </item>
+
+</items>

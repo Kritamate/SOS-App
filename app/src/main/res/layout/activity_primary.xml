@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_primary"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    tools:context="com.example.yo7a.healthwatcher.Primary"
+    android:background="@mipmap/bg4"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:weightSum="1">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <ImageButton
+        android:id="@+id/helpMeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="191dp"
+        android:layout_alignBottom="@+id/CL"
+        android:layout_alignParentEnd="true"
+        android:background="@android:color/transparent"
+        app:srcCompat="@mipmap/sms" />
+
+
+    <ImageButton
+        android:id="@+id/CL"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/transparent"
+        app:srcCompat="@mipmap/call" />
+
+
+    <ImageButton
+        android:id="@+id/HR"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_above="@+id/RR"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent"
+        app:srcCompat="@mipmap/hr1" />
+
+    <ImageButton
+        android:id="@+id/RR"
+        android:layout_width="wrap_content"
+        android:layout_height="51dp"
+        android:layout_above="@+id/BP"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent"
+        app:srcCompat="@mipmap/rr1" />
+
+    <ImageButton
+        android:id="@+id/BP"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_above="@+id/O2"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent"
+        app:srcCompat="@mipmap/bp1" />
+
+    <ImageButton
+        android:id="@+id/O2"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_above="@+id/VS"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent"
+        app:srcCompat="@mipmap/or1" />
+
+    <ImageButton
+        android:id="@+id/VS"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/transparent"
+        app:srcCompat="@mipmap/avs" />
+
+    <ImageButton
+        android:id="@+id/HT"
+        android:layout_width="183dp"
+        android:layout_height="104dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="179dp"
+        android:background="@android:color/transparent"
+        app:srcCompat="@mipmap/heart" />
+
+
+    <ImageButton
+        android:id="@+id/About"
+        android:layout_width="41dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="right"
+        android:background="@android:color/transparent"
+        android:scaleType="fitEnd"
+        app:srcCompat="@mipmap/ab" />
+
+</RelativeLayout>
